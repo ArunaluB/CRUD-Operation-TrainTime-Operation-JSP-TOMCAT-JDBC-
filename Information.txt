@@ -1,0 +1,9 @@
+Student Number = IT22515612
+Student Name   = S.A.N.Bamunusinghe
+Batch          = IT.WE.01.02
+Group ID       = SE/OOP/2023/S2/MLB/WE/G27
+Group Topic    = Online Train reservation system
+
+individual contribution 
+ My role is that of a train time operator, and I am responsible for managing a train time system. This includes adding, editing and deleting train times as well as viewing entered times. In addition, I am in charge of system login procedures.
+
